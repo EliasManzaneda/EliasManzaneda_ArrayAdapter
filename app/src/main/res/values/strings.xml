@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ArrayAdapter_personalizado</string>
+
+    <string name="icono">Icono</string>
+    <string name="tamanyo_template">Tamaño: %d</string>
+
+</resources>
